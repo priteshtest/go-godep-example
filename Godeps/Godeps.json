@@ -1,5 +1,5 @@
 {
-	"ImportPath": ".",
+	"ImportPath": "github.com/priteshtest/go-godep-example",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
 	"Packages": [
