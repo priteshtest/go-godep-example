@@ -2,31 +2,35 @@
 	"ImportPath": "github.com/priteshtest/go-godep-example",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
-	"Packages": [
-		"./..."
-	],
 	"Deps": [
 		{
-			"ImportPath": "github.com/kr/fs",
-			"Rev": "2788f0dbd16903de03cb8186e5c7d97b69ad387b"
+			"ImportPath": "github.com/Masterminds/semver",
+			"Comment": "v1.3.0",
+			"Rev": "abff1900528dbdaf6f3f5aa92c398be1eaf2a9f7"
 		},
 		{
-			"ImportPath": "github.com/kr/pretty",
-			"Comment": "go.weekly.2011-12-22-24-gf31442d",
-			"Rev": "f31442d60e51465c69811e2107ae978868dbea5c"
+			"ImportPath": "github.com/ant0ine/go-json-rest/rest",
+			"Comment": "v3.3.2-4-g4602b00",
+			"Rev": "4602b00d2caab423578a3094c68137dcc1eb2051"
 		},
 		{
-			"ImportPath": "github.com/kr/text",
-			"Rev": "6807e777504f54ad073ecef66747de158294b639"
+			"ImportPath": "github.com/ant0ine/go-json-rest/rest/trie",
+			"Comment": "v3.3.2-4-g4602b00",
+			"Rev": "4602b00d2caab423578a3094c68137dcc1eb2051"
 		},
 		{
-			"ImportPath": "github.com/pmezard/go-difflib/difflib",
-			"Rev": "f78a839676152fd9f4863704f5d516195c18fc14"
+			"ImportPath": "github.com/kylelemons/go-gypsy/yaml",
+			"Comment": "go.weekly.2011-11-02-21-g08cad36",
+			"Rev": "08cad365cd28a7fba23bb1e57aa43c5e18ad8bb8"
 		},
 		{
-			"ImportPath": "golang.org/x/tools/go/vcs",
-			"Rev": "1f1b3322f67af76803c942fd237291538ec68262"
+			"ImportPath": "github.com/mitchellh/go-homedir",
+			"Rev": "b8bc1bf767474819792c23f32d8286a45736f1c6"
+		},
+		{
+			"ImportPath": "github.com/openshift/origin",
+			"Comment": "v3.6.0-alpha.1-456-g34cda05",
+			"Rev": "34cda05a53b90969d340153993b082f1cf36a17d"
 		}
 	]
-}
 }
