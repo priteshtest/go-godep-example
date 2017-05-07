@@ -5,7 +5,7 @@ import "flag"
 import "github.com/Masterminds/semver"
 import "github.com/mitchellh/go-homedir"
 import "github.com/kylelemons/go-gypsy/yaml"
-import "github.com/openshift/origin"
+//import "github.com/openshift/origin"
 import "github.com/ant0ine/go-json-rest/rest"
 
 
