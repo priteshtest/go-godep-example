@@ -31,6 +31,11 @@
 			"ImportPath": "github.com/openshift/origin",
 			"Comment": "v3.6.0-alpha.1-456-g34cda05",
 			"Rev": "34cda05a53b90969d340153993b082f1cf36a17d"
+		},
+		{
+			"ImportPath": "github.com/simeji/jid",
+			"Rev": "1cd05867e040462dd3271c1679b2a4856f942ff5"
 		}
+		
 	]
 }
